@@ -1,5 +1,5 @@
 # JavaScript projects
-Projects that were done on JavaScript programming language.
+Projects that were done on JavaScript programming language
 
 ## Projects
 - Calculator
